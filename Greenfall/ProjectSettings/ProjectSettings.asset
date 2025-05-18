@@ -4,7 +4,11 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
+<<<<<<< HEAD
   productGUID: 9a97215182184004d87ec6004777251b
+=======
+  productGUID: c8ea4c0c00a239d4ab27280981a45fab
+>>>>>>> 01e61a0c67b9a81a815d096f5204e74c2a9ef5cc
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -16,7 +20,11 @@ PlayerSettings:
   productName: Greenfall
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
+<<<<<<< HEAD
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
+=======
+  m_SplashScreenBackgroundColor: {r: 0.12156863, g: 0.12156863, b: 0.1254902, a: 1}
+>>>>>>> 01e61a0c67b9a81a815d096f5204e74c2a9ef5cc
   m_ShowUnitySplashScreen: 1
   m_ShowUnitySplashLogo: 1
   m_SplashScreenOverlayOpacity: 1
@@ -47,7 +55,11 @@ PlayerSettings:
   defaultScreenWidthWeb: 960
   defaultScreenHeightWeb: 600
   m_StereoRenderingPath: 0
+<<<<<<< HEAD
   m_ActiveColorSpace: 1
+=======
+  m_ActiveColorSpace: 0
+>>>>>>> 01e61a0c67b9a81a815d096f5204e74c2a9ef5cc
   unsupportedMSAAFallback: 0
   m_SpriteBatchVertexThreshold: 300
   m_MTRendering: 1
@@ -162,14 +174,22 @@ PlayerSettings:
   resetResolutionOnWindowResize: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
+<<<<<<< HEAD
   applicationIdentifier:
     Standalone: com.DefaultCompany.2DProject
+=======
+  applicationIdentifier: {}
+>>>>>>> 01e61a0c67b9a81a815d096f5204e74c2a9ef5cc
   buildNumber:
     Standalone: 0
     VisionOS: 0
     iPhone: 0
     tvOS: 0
+<<<<<<< HEAD
   overrideDefaultApplicationIdentifier: 1
+=======
+  overrideDefaultApplicationIdentifier: 0
+>>>>>>> 01e61a0c67b9a81a815d096f5204e74c2a9ef5cc
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 22
   AndroidTargetSdkVersion: 0
@@ -252,9 +272,15 @@ PlayerSettings:
   iOSAutomaticallyDetectAndAddCapabilities: 1
   appleEnableProMotion: 0
   shaderPrecisionModel: 0
+<<<<<<< HEAD
   clonedFromGUID: 10ad67313f4034357812315f3c407484
   templatePackageId: com.unity.template.2d@7.0.4
   templateDefaultScene: Assets/Scenes/SampleScene.unity
+=======
+  clonedFromGUID: 00000000000000000000000000000000
+  templatePackageId: 
+  templateDefaultScene: 
+>>>>>>> 01e61a0c67b9a81a815d096f5204e74c2a9ef5cc
   useCustomMainManifest: 0
   useCustomLauncherManifest: 0
   useCustomMainGradleTemplate: 0
@@ -286,7 +312,11 @@ PlayerSettings:
   AndroidMinifyRelease: 0
   AndroidMinifyDebug: 0
   AndroidValidateAppBundleSize: 1
+<<<<<<< HEAD
   AndroidAppBundleSizeToValidate: 150
+=======
+  AndroidAppBundleSizeToValidate: 200
+>>>>>>> 01e61a0c67b9a81a815d096f5204e74c2a9ef5cc
   m_BuildTargetIcons: []
   m_BuildTargetPlatformIcons:
   - m_BuildTarget: iPhone
@@ -480,6 +510,7 @@ PlayerSettings:
       m_SubKind: 
   m_BuildTargetBatching: []
   m_BuildTargetShaderSettings: []
+<<<<<<< HEAD
   m_BuildTargetGraphicsJobs:
   - m_BuildTarget: MacStandaloneSupport
     m_GraphicsJobs: 0
@@ -515,6 +546,11 @@ PlayerSettings:
   - m_BuildTarget: iOSSupport
     m_APIs: 10000000
     m_Automatic: 1
+=======
+  m_BuildTargetGraphicsJobs: []
+  m_BuildTargetGraphicsJobMode: []
+  m_BuildTargetGraphicsAPIs: []
+>>>>>>> 01e61a0c67b9a81a815d096f5204e74c2a9ef5cc
   m_BuildTargetVRSettings: []
   m_DefaultShaderChunkSizeInMB: 16
   m_DefaultShaderChunkCount: 0
@@ -524,6 +560,10 @@ PlayerSettings:
   m_TemplateCustomTags: {}
   mobileMTRendering:
     Android: 1
+<<<<<<< HEAD
+=======
+    VisionOS: 1
+>>>>>>> 01e61a0c67b9a81a815d096f5204e74c2a9ef5cc
     iPhone: 1
     tvOS: 1
   m_BuildTargetGroupLightmapEncodingQuality: []
@@ -531,9 +571,13 @@ PlayerSettings:
   m_BuildTargetGroupLightmapSettings: []
   m_BuildTargetGroupLoadStoreDebugModeSettings: []
   m_BuildTargetNormalMapEncoding: []
+<<<<<<< HEAD
   m_BuildTargetDefaultTextureCompressionFormat:
   - m_BuildTarget: Android
     m_Format: 3
+=======
+  m_BuildTargetDefaultTextureCompressionFormat: []
+>>>>>>> 01e61a0c67b9a81a815d096f5204e74c2a9ef5cc
   playModeTestRunnerEnabled: 0
   runPlayModeTestAsEditModeTest: 0
   actionOnDotNetUnhandledException: 1
@@ -669,7 +713,11 @@ PlayerSettings:
   switchSystemResourceMemory: 16777216
   switchSupportedNpadStyles: 22
   switchNativeFsCacheSize: 32
+<<<<<<< HEAD
   switchIsHoldTypeHorizontal: 0
+=======
+  switchIsHoldTypeHorizontal: 1
+>>>>>>> 01e61a0c67b9a81a815d096f5204e74c2a9ef5cc
   switchSupportedNpadCount: 8
   switchEnableTouchScreen: 1
   switchSocketConfigEnabled: 0
@@ -683,7 +731,11 @@ PlayerSettings:
   switchSocketInitializeEnabled: 1
   switchNetworkInterfaceManagerInitializeEnabled: 1
   switchDisableHTCSPlayerConnection: 0
+<<<<<<< HEAD
   switchUseNewStyleFilepaths: 0
+=======
+  switchUseNewStyleFilepaths: 1
+>>>>>>> 01e61a0c67b9a81a815d096f5204e74c2a9ef5cc
   switchUseLegacyFmodPriorities: 0
   switchUseMicroSleepForYield: 1
   switchEnableRamDiskSupport: 0
@@ -780,7 +832,11 @@ PlayerSettings:
   webGLTemplate: APPLICATION:Default
   webGLAnalyzeBuildSize: 0
   webGLUseEmbeddedResources: 0
+<<<<<<< HEAD
   webGLCompressionFormat: 0
+=======
+  webGLCompressionFormat: 1
+>>>>>>> 01e61a0c67b9a81a815d096f5204e74c2a9ef5cc
   webGLWasmArithmeticExceptions: 0
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
@@ -798,6 +854,7 @@ PlayerSettings:
   scriptingBackend: {}
   il2cppCompilerConfiguration: {}
   il2cppCodeGeneration: {}
+<<<<<<< HEAD
   managedStrippingLevel:
     EmbeddedLinux: 1
     GameCoreScarlett: 1
@@ -813,6 +870,9 @@ PlayerSettings:
     XboxOne: 1
     iPhone: 1
     tvOS: 1
+=======
+  managedStrippingLevel: {}
+>>>>>>> 01e61a0c67b9a81a815d096f5204e74c2a9ef5cc
   incrementalIl2cppBuild: {}
   suppressCommonWarnings: 1
   allowUnsafeCode: 0
@@ -900,11 +960,19 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
+<<<<<<< HEAD
   cloudProjectId: 470acc82-55b4-4f03-8e9b-ac9a3c4d5890
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: Greenfall
   organizationId: mlwy4id
+=======
+  cloudProjectId: 
+  framebufferDepthMemorylessMode: 0
+  qualitySettingsNames: []
+  projectName: 
+  organizationId: 
+>>>>>>> 01e61a0c67b9a81a815d096f5204e74c2a9ef5cc
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}

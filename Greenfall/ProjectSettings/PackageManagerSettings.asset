@@ -2,7 +2,11 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!114 &1
 MonoBehaviour:
+<<<<<<< HEAD
   m_ObjectHideFlags: 61
+=======
+  m_ObjectHideFlags: 53
+>>>>>>> 01e61a0c67b9a81a815d096f5204e74c2a9ef5cc
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -13,10 +17,17 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_EnablePreReleasePackages: 0
+<<<<<<< HEAD
   m_EnablePackageDependencies: 0
   m_AdvancedSettingsExpanded: 1
   m_ScopedRegistriesSettingsExpanded: 1
   m_SeeAllPackageVersions: 0
+=======
+  m_AdvancedSettingsExpanded: 1
+  m_ScopedRegistriesSettingsExpanded: 1
+  m_SeeAllPackageVersions: 0
+  m_DismissPreviewPackagesInUse: 0
+>>>>>>> 01e61a0c67b9a81a815d096f5204e74c2a9ef5cc
   oneTimeWarningShown: 0
   m_Registries:
   - m_Id: main
@@ -25,6 +36,7 @@ MonoBehaviour:
     m_Scopes: []
     m_IsDefault: 1
     m_Capabilities: 7
+<<<<<<< HEAD
   m_UserSelectedRegistryName: 
   m_UserAddingNewScopedRegistry: 0
   m_RegistryInfoDraft:
@@ -42,3 +54,14 @@ MonoBehaviour:
     m_Scopes:
     - 
     m_SelectedScopeIndex: 0
+=======
+    m_ConfigSource: 0
+  m_UserSelectedRegistryName: 
+  m_UserAddingNewScopedRegistry: 0
+  m_RegistryInfoDraft:
+    m_Modified: 0
+    m_ErrorMessage: 
+    m_UserModificationsInstanceId: -872
+    m_OriginalInstanceId: -874
+  m_LoadAssets: 0
+>>>>>>> 01e61a0c67b9a81a815d096f5204e74c2a9ef5cc
